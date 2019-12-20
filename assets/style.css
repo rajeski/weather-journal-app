@@ -1,0 +1,149 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background: #fffff8;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+#app{
+    display: grid;
+    grid-auto-rows: minmax(30px, auto);
+    grid-template-columns: 100%;
+    height:100vh;
+    background: #4835f2;
+    color: #f0d43a;
+    justify-content: center;
+    grid-gap: 1em;
+    font-family: 'Oswald', sans-serif;
+}
+
+ .holder{
+    margin: auto; 
+    display: grid;
+}
+
+.feel {
+    display: grid;
+    grid-gap: 5px;
+}
+
+.headline {
+    font-size: 4rem;
+}
+
+label {
+    font-size: 1.7rem;
+    
+}
+
+.zip {
+    grid-template-columns: 48% 48%;
+}
+
+button, textarea, input {
+    font-size: 1.4rem;
+}
+
+button {
+    margin-top: 10px;
+}
+
+
+/* .entry{
+    background: rgba(59, 74, 107, .4);
+} */
+
+.entry-item {
+    font-size: 1.5rem;
+}
+
+.title{
+    font-size: 1.7rem;
+} 
+
+/*
+#entryHolder{
+
+}
+
+#date{
+
+}
+
+#temp{
+
+}
+
+#content{
+
+}
+
+.headline {
+
+}
+*/
+
+/*  Override default basic styling */
+/* label{
+    display:block;
+    font-size: 27px;
+}
+
+input{
+    display:block;
+    height: 60px;
+    width: 320px;
+    background:#22b2da;
+    color: #f0d43a;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+}
+
+button{
+    width: 400px;
+    height: 100px;
+    background: #3b4a6b;
+    color: #f0d43a;
+    font-size: 26px;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+    box-shadow: 2px 4px 5px #444;
+} */
+/* h1{
+    font-size: 48px;
+} */
+
+/* textarea{
+    background:#22b2da;
+    color: #f0d43a;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+} */
+
+/* input:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+} */
+
+/* ::placeholder { 
+    color: #f0d43a; 
+    font-family: 'Oswald', sans-serif;
+
+}  */
+  
+/* ::-ms-input-placeholder 
+    color: #f0d43a; 
+    font-family: 'Oswald', sans-serif;
+
+} 
+  
+::-ms-input-placeholder 
+    color: #f0d43a; 
+    font-family: 'Oswald', sans-serif;
+
+}  */
