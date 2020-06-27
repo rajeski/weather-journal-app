@@ -1,4 +1,4 @@
-# Weather-Journal Application 
+# Weather Journal Application 
 
 ## Overview
 This project uses both end-user input (zip code and user's feelings) - 
@@ -9,6 +9,6 @@ This project uses both end-user input (zip code and user's feelings) -
 * Get data from the Express Server and update the UI accordingly
 
 #### Instructions
-- Get Udacity-provided project code 
-- Locally make usre NodeJS is installed (run 'npm i' from your terminal at the top level project directory to install via the Command Line)  
+- Get Udacity-provided, project code (scaffolded-project foundation for introduction and learning purposes) 
+- Locally NodeJS need to be is installed (run 'npm i' from your terminal at the top level project directory to install via the Command Line)  
 - Enter a (US-based) zip code in form of '{zipcode},{country code}', e.g., '94712,us' then click (the) "Generate" button to view the search results
