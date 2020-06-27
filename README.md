@@ -11,4 +11,4 @@ This project uses both end-user input (zip code and user's feelings) -
 #### Instructions
 - Get Udacity-provided project code 
 - Locally make usre NodeJS is installed (run 'npm i' from your terminal at the top level project directory to install via the Command Line)  
-- Enter a (US-based) zip code in form of '{zipcode},{country code}', e.g., '94712,us' then click Generate button
+- Enter a (US-based) zip code in form of '{zipcode},{country code}', e.g., '94712,us' then click (the) "Generate" button to view the search results
